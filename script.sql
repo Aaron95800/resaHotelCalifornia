@@ -1,2 +1,0 @@
--- Projet resaHotelCalifornia
--- Structure de la base de données
